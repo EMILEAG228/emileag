@@ -3,7 +3,7 @@ body{
     background-size: cover;
     background-position: center;
 }
-h1{
+button .h1{
     style="color: azure;"
     style="-webkit-text-stroke-color: aqua;"
 }
