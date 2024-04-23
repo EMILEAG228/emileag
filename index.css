@@ -5,4 +5,5 @@ body{
 }
 h1{
     style="color: azure;"
+    style="-webkit-text-stroke-color: aqua;"
 }
