@@ -4,5 +4,5 @@ body{
     background-position: center;
 }
 h2 .e{
-    textalign = "center";
+    style="text-align: center;"
 }
