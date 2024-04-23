@@ -1,3 +1,5 @@
 body{
     background-image: url(shop.jpg);
+    background-size: cover;
+    background-position: center;
 }
