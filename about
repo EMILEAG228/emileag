@@ -10,7 +10,7 @@
 <body>
     <div class="main ">
         <dir class="logo">
-            <img src="icone.png">
+            <img src="icon.png">
 
         </dir>
     <marquee behavior="" direction="right"><h1 class="a">About Your Shop</h1></marquee>
