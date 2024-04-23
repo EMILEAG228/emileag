@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="image/png" href="icon.png">
+    <link rel="shortcut icon" type="image/png" href="icone.png">
     <link rel="stylesheet" href="about.css">
     <title>About</title>
 </head>
 <body>
     <div class="main ">
         <dir class="logo">
-            <img src="icon.png">
+            <img src="icone.png">
 
         </dir>
     <marquee behavior="" direction="right"><h1 class="a">About Your Shop</h1></marquee>
